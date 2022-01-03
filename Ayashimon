@@ -1,0 +1,17 @@
+{
+  "title": "<อายาชิม่อน>",
+  "description": "<ผลงานเรื่องใหม่จากผู้เขียน สุขาวดีอเวจี>",
+  "artist": "<คาคุ ยูจิ>",
+  "author": "<คาคุ ยูจิ>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<1>": {
+      "title": "<ตอนที่ 1>",
+      "volume": "<เล่มที่ 1>",
+      "groups": {
+        "<Hyouka>": "/proxy/api/imgur/chapter/<Ffw1hEk>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
