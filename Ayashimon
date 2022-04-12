@@ -1,17 +1,17 @@
 {
-  "title": "จิฮาระซังน่ารัก...แต่อันตราย?【Jirai nandesu ka? Chihara-san】",
-  "description": "เรื่องราวของสาวสุดน่ารักแต่เธอ……!?",
-  "artist": "เรียว",
-  "author": "เรียว",
-  "cover": "https://i.imgur.com/Kfu8kui.jpg",
+  "title": "Watashi yori tsuyoi otoko to kekkonshitai no",
+  "description": "เรื่องราวของ อากิระ ที่ดันไปรู้ความลับของท่านประธานนักเรียนหญิง ซิซุกะ สุดแสนสุดเพอร์เฟค",
+  "artist": "ยุย ไดซึเกะ",
+  "author": "ทากาฮาชิ บิซุย",
+  "cover": "https://imgur.com/a/L3PUbqc",
   "chapters": {
     "1": {
-      "title": "ตอนที่ 14",
+      "title": "Chapter 1",
       "volume": "1",
       "groups": {
-        "Hyouka": "/proxy/api/imgur/chapter/YHtogvU/"
+        "Hyouka": "/proxy/api/imgur/chapter/hr3j2jq/"
       },
-      "last_updated": "1641395468"
+      "last_updated": "1649773236"
       }
   }
 }
